@@ -19,3 +19,5 @@ The protein topology was built using CHARMM36 FF while the positively charged li
 I will provide the pdb files of the system at 5-ns (RMSD= 1.77 A)and 10-ns (RMSD= 3.28 A). The reason that I provide both of them is that the frame at 5 ns have been released earlier and is currently part of some research work. For future docking studies, I recommend using the ns structure. 
 
 
+This work was sone using the super computer system, HPC, of Temple University School of Science and Technology, Philadelphia, Pennsylavania. Aug 2020
+This Work is presented as a contribution from the Matsika lab at Temple University, Philadelphia, Pennsylvania, to the efforts against COVID-19.  
