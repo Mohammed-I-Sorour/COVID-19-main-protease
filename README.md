@@ -21,3 +21,7 @@ I will provide the pdb files of the system at 5-ns (RMSD= 1.77 A)and 10-ns (RMSD
 
 This work was sone using the super computer system, HPC, of Temple University School of Science and Technology, Philadelphia, Pennsylavania. Aug 2020
 This Work is presented as a contribution from the Matsika lab at Temple University, Philadelphia, Pennsylvania, to the efforts against COVID-19.  
+
+Please feel free to share any comments that you believe will help us advance and improve.  
+
+Best!
