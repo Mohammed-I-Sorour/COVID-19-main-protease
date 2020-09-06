@@ -1,11 +1,16 @@
 # COVID-19-main-protease
-COVID-19 main protease-6lu7 prepared for docking
+COVID-19 main protease-6lu7 prepared for docking.
+
 In this file we will describe the process we followed to prepare the COVID-6LU7 protein for docking 
 
 1-The 6lu7 protein was dowloaded from the protein data bank: https://www.rcsb.org/structure/6LU7
+
 2-The 6lu7 is crystalized in th epresence of a covalently linked inhibitor, N3. 
+
 3-I removed the inhibitor and capped the Cys-145 residue sulfer atom with a hydrogen. 
+
 4-The the rest of the hydrogen of the sysytem were added. the water molecule that came as a part of the crystalized structure were removed. 
+
 5-The most important step now is to relax the system after the removal of the covalently linked ligand. To do so, we ran 10ns equilibrium molecular dynamics to relax the system. 
 
 MD relaxation details: 
