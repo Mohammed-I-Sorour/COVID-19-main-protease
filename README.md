@@ -1,7 +1,7 @@
 # COVID-19-main-protease
 COVID-19 main protease-6lu7 prepared for docking.
 
-In this file we will describe the process we followed to prepare the COVID-6LU7 protein for docking 
+In this Repositories we will describe the process we followed to prepare the COVID-6LU7 protein for docking 
 
 1-The 6lu7 protein was dowloaded from the protein data bank: https://www.rcsb.org/structure/6LU7
 
